@@ -24,3 +24,6 @@ Emulate Key Press Function
 ```csharp
     MKEmulator_CSharp.Emulator.EmulateKeyPress(Char.Parse("w"), 30 * 1000);
 ```
+
+## How to use in VB.NET
+Like C# add MKEmulator_.Net.dll to your project file and also add MKEmulator_CSharp.dll as a reference file.
